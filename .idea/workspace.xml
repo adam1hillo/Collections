@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddec2ab2-8185-4222-b79c-c10de8ab2774" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/arraylist/VBArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/linkedlist/VBLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/comparator/DescendingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/cursus/Cursus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/cursus/CursusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/hashcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/hashset/VBSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/linkedhashset/VBLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/treeset/VBTreeSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bRImnXtaRcnZahpErlUhpUhfRG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,13 +44,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CursusMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.VBArrayList.executor": "Run",
+    "Application.VBLinkedHashSet.executor": "Run",
     "Application.VBLinkedList.executor": "Run",
+    "Application.VBSet.executor": "Run",
+    "Application.VBTreeSet.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joann/IdeaProjects/Rekeningnummer"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
